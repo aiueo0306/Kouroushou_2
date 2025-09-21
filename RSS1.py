@@ -27,8 +27,8 @@ from browser_utils import click_button_in_order
 from browser_utils import click_button_in_order
 
 # ===== 固定情報（学会サイト） =====
-BASE_URL = "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html"
-GAKKAI = "社会保障審議会（介護給付費分科会）"
+BASE_URL = "https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html"
+GAKKAI = "中央社会保険医療協議会(中央社会保険医療協議会総会)"
 
 SELECTOR_TITLE = "table.m-tableFlex tr"
 title_selector = ""
