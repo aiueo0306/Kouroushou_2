@@ -27,8 +27,8 @@ from browser_utils import click_button_in_order
 from browser_utils import click_button_in_order
 
 # ===== 固定情報（学会サイト） =====
-BASE_URL = "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html"
-GAKKAI = "社会保障審議会（介護給付費分科会）"
+BASE_URL = "https://www.mhlw.go.jp/stf/newpage_28708.html"
+GAKKAI = "社会保障審議会（医療保険部会）"
 
 SELECTOR_TITLE = "table.m-tableFlex tr"
 title_selector = ""
@@ -115,6 +115,6 @@ with sync_playwright() as p:
         print("⚠ 抽出できた記事がありません。HTML構造が変わっている可能性があります。")
 
     os.makedirs("rss_output", exist_ok=True)
-    rss_path = "rss_output/Feed1.xml"
+    rss_path = "rss_output/Feed2.xml"
     generate_rss(items, rss_path, BASE_URL, GAKKAI)
     browser.close()
