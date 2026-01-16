@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 16 Jan 2026 01:49:40 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 16 Jan 2026 03:40:26 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -430,7 +430,8 @@
 	４市場拡大再算定について
 	５歯科用貴金属価格の随時改定について
 	６個別改定項目について（医療法等改正に伴う療養担当規則等の所要の見直しについて）
-	７医療技術評価分科会からの報告について
+        ７答申について（医療法等改正に伴う療養担当規則等の所要の見直しについて）
+	８医療技術評価分科会からの報告について
 
 
 －
@@ -449,7 +450,8 @@
 	４市場拡大再算定について
 	５歯科用貴金属価格の随時改定について
 	６個別改定項目について（医療法等改正に伴う療養担当規則等の所要の見直しについて）
-	７医療技術評価分科会からの報告について
+        ７答申について（医療法等改正に伴う療養担当規則等の所要の見直しについて）
+	８医療技術評価分科会からの報告について
 
 
 －
@@ -457,7 +459,7 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:ee245fc9817c39a09d55e534d1e6d78420fdc022</guid><pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2026-01-14】第641回
+－</description><guid isPermaLink="false">urn:newsitem:1bf55417a16f28c008f10f04fcf22f01957320f9</guid><pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2026-01-14】第641回
 
 
 2026年1月14日（令和8年1月14日）
