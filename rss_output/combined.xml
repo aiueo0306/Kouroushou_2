@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 12 Feb 2026 23:30:19 +0000</lastBuildDate><item><title>【社会保障審議会（介護保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 13 Feb 2026 02:24:26 +0000</lastBuildDate><item><title>【社会保障審議会（介護保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -664,7 +664,10 @@
 
 2026年2月13日（令和8年2月13日）
 
-	※ 掲載準備中
+	１答申について
+	２再生医療等製品の保険適用について
+	３ＤＰＣにおける高額な新規の医薬品等への対応について
+	４薬価基準から削除する項目について
 
 
 －
@@ -677,7 +680,10 @@
 
 2026年2月13日（令和8年2月13日）
 
-	※ 掲載準備中
+	１答申について
+	２再生医療等製品の保険適用について
+	３ＤＰＣにおける高額な新規の医薬品等への対応について
+	４薬価基準から削除する項目について
 
 
 －
@@ -685,4 +691,4 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:f75743715b3c038361e698cae44f9c7834ca92b7</guid><pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate></item></channel></rss>
+－</description><guid isPermaLink="false">urn:newsitem:abde41d2ae5efb16ead67752bdf6b6a93e068539</guid><pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate></item></channel></rss>
