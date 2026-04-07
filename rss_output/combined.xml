@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 07 Apr 2026 09:03:47 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 07 Apr 2026 10:56:08 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -9,7 +9,53 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【社会保障審議会(医療部会)】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2026-04-08】第649回
+
+
+2026年4月8日（令和8年4月8日）
+
+	１部会・小委員会に属する委員の指名等について
+	２費用対効果評価専門組織からの報告について
+	３医薬品の新規薬価収載等について
+	４最適使用推進ガイドラインについて
+	５ＤＰＣにおける高額な新規の医薬品等への対応について
+	６在宅自己注射について
+	７令和８年度改定を踏まえたＤＰＣ/ＰＤＰＳの現況について
+	８令和８年度診療報酬改定における臨時的なＤＰＣ準備病院の募集について
+	９調査実施小委員会からの報告について
+	10答申書付帯意見に関する事項の検討の進め方について
+
+	11再生医療等製品の医療保険上の取扱いについて
+
+－
+
+資料
+
+
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第649回
+
+
+2026年4月8日（令和8年4月8日）
+
+	１部会・小委員会に属する委員の指名等について
+	２費用対効果評価専門組織からの報告について
+	３医薬品の新規薬価収載等について
+	４最適使用推進ガイドラインについて
+	５ＤＰＣにおける高額な新規の医薬品等への対応について
+	６在宅自己注射について
+	７令和８年度改定を踏まえたＤＰＣ/ＰＤＰＳの現況について
+	８令和８年度診療報酬改定における臨時的なＤＰＣ準備病院の募集について
+	９調査実施小委員会からの報告について
+	10答申書付帯意見に関する事項の検討の進め方について
+
+	11再生医療等製品の医療保険上の取扱いについて
+
+－
+
+資料
+
+
+－</description><guid isPermaLink="false">urn:newsitem:8a150289925089b96a606741019e27b92052edc2</guid><pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
