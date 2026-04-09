@@ -1,327 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 09 Apr 2026 07:24:02 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2026-04-08】第649回
-
-
-2026年4月8日（令和8年4月8日）
-
-	１部会・小委員会に属する委員の指名等について
-	２費用対効果評価専門組織からの報告について
-	３医薬品の新規薬価収載等について
-	４最適使用推進ガイドラインについて
-	５ＤＰＣにおける高額な新規の医薬品等への対応について
-	６在宅自己注射について
-	７令和８年度改定を踏まえたＤＰＣ/ＰＤＰＳの現況について
-	８令和８年度診療報酬改定における臨時的なＤＰＣ準備病院の募集について
-	９調査実施小委員会からの報告について
-	10答申書附帯意見に関する事項の検討の進め方について
-
-	11再生医療等製品の医療保険上の取扱いについて
-
-－
-
-資料
-
-
-－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第649回
-
-
-2026年4月8日（令和8年4月8日）
-
-	１部会・小委員会に属する委員の指名等について
-	２費用対効果評価専門組織からの報告について
-	３医薬品の新規薬価収載等について
-	４最適使用推進ガイドラインについて
-	５ＤＰＣにおける高額な新規の医薬品等への対応について
-	６在宅自己注射について
-	７令和８年度改定を踏まえたＤＰＣ/ＰＤＰＳの現況について
-	８令和８年度診療報酬改定における臨時的なＤＰＣ準備病院の募集について
-	９調査実施小委員会からの報告について
-	10答申書附帯意見に関する事項の検討の進め方について
-
-	11再生医療等製品の医療保険上の取扱いについて
-
-－
-
-資料
-
-
-－</description><guid isPermaLink="false">urn:newsitem:df452a2fcdc3abe983926f9e77243f5666baada1</guid><pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html?rss=1758447711</link><description>回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</guid></item><item><title>【社会保障審議会(医療部会)】第118回
-
-
-2025年9月19日（令和7年9月19日）
-○医療機関をとりまく状況（経営状況・人材確保等）
-○基幹インフラ制度への医療分野の追加について
-○特定機能病院のあり方に関するとりまとめ
-－
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第118回
-
-
-2025年9月19日（令和7年9月19日）
-○医療機関をとりまく状況（経営状況・人材確保等）
-○基幹インフラ制度への医療分野の追加について
-○特定機能病院のあり方に関するとりまとめ
-－
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_63473.html-20250919</guid><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第117回
-
-
-2025年9月4日（令和7年9月4日）
-○診療報酬改定の基本方針について（前回改定の振り返り）
-○医療法人の経営情報等の第三者提供制度について
- 
-－
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第117回
-
-
-2025年9月4日（令和7年9月4日）
-○診療報酬改定の基本方針について（前回改定の振り返り）
-○医療法人の経営情報等の第三者提供制度について
- 
-－
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_62821.html-20250904</guid><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第116回
-
-
-2025年7月4日（令和7年7月4日）
-○地域医療構想、医師偏在対策等の検討体制について
-○他の医療機関で製造された PET 製剤の使用に係る医療法上の取扱いについて（報告）
-○経済財政運営と改革の基本方針等の閣議決定について（報告）
-
-議事録
-
-
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第116回
-
-
-2025年7月4日（令和7年7月4日）
-○地域医療構想、医師偏在対策等の検討体制について
-○他の医療機関で製造された PET 製剤の使用に係る医療法上の取扱いについて（報告）
-○経済財政運営と改革の基本方針等の閣議決定について（報告）
-
-議事録
-
-
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_59350.html-20250704</guid><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第115回
-
-
-2025年2月26日（令和7年2月26日）
-○医療法等の一部を改正する法律案の閣議決定について（報告）
-○令和７年度予算案・税制改正について（報告）
-－
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第115回
-
-
-2025年2月26日（令和7年2月26日）
-○医療法等の一部を改正する法律案の閣議決定について（報告）
-○令和７年度予算案・税制改正について（報告）
-－
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_52868.html-20250226</guid><pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】－
-
-
-2024年12月25日（令和6年12月25日）
-○2040年頃に向けた医療提供体制の総合的な改革に関する意見 
-－
-
-資料
-
-
-－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>－
-
-
-2024年12月25日（令和6年12月25日）
-○2040年頃に向けた医療提供体制の総合的な改革に関する意見 
-－
-
-資料
-
-
-－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html-20241225</guid><pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第114回
-
-
-2024年12月18日（令和6年12月18日）
-○医療提供体制の在り方について
-○令和６年度補正予算について（報告）
-
-議事録
-
-
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第114回
-
-
-2024年12月18日（令和6年12月18日）
-○医療提供体制の在り方について
-○令和６年度補正予算について（報告）
-
-議事録
-
-
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_47469.html-20241218</guid><pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第113回
-
-
-2024年11月28日（令和6年11月28日）
-○医療DXの更なる推進等について
-○「美容医療の適切な実施に関する検討会」の報告書について（報告）
-○認定医療法人制度の延長等について
-○医師偏在是正対策について
-
-議事録
-
-
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第113回
-
-
-2024年11月28日（令和6年11月28日）
-○医療DXの更なる推進等について
-○「美容医療の適切な実施に関する検討会」の報告書について（報告）
-○認定医療法人制度の延長等について
-○医師偏在是正対策について
-
-議事録
-
-
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_46216.html-20241128</guid><pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第112回
-
-
-2024年11月15日（令和6年11月15日）
-○新たな地域医療構想の現時点の検討状況について（報告）
-
-議事録
-
-
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第112回
-
-
-2024年11月15日（令和6年11月15日）
-○新たな地域医療構想の現時点の検討状況について（報告）
-
-議事録
-
-
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_45510.html-20241115</guid><pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第111回
-
-
-2024年10月30日（令和6年10月30日）
-○美容医療の適切な実施に関する検討会の議論の状況について
-○適切なオンライン診療の推進について
-○医療ＤＸの更なる推進について
-○産科医療特別給付事業等について
-○その他（非密封放射性同位元素を用いた医療機器及び医薬品等の医療法上の取扱いについて）
-
-議事録
-
-
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第111回
-
-
-2024年10月30日（令和6年10月30日）
-○美容医療の適切な実施に関する検討会の議論の状況について
-○適切なオンライン診療の推進について
-○医療ＤＸの更なる推進について
-○産科医療特別給付事業等について
-○その他（非密封放射性同位元素を用いた医療機器及び医薬品等の医療法上の取扱いについて）
-
-議事録
-
-
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_44808.html-20241030</guid><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 09 Apr 2026 09:09:11 +0000</lastBuildDate><item><title>【社会保障審議会（介護保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -695,7 +373,273 @@
 
 
 
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_47036.html-20241223</guid><pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_47036.html-20241223</guid><pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html?rss=1758447711</link><description>回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</guid></item><item><title>【社会保障審議会(医療部会)】第118回
+
+
+2025年9月19日（令和7年9月19日）
+○医療機関をとりまく状況（経営状況・人材確保等）
+○基幹インフラ制度への医療分野の追加について
+○特定機能病院のあり方に関するとりまとめ
+－
+
+資料
+
+
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第118回
+
+
+2025年9月19日（令和7年9月19日）
+○医療機関をとりまく状況（経営状況・人材確保等）
+○基幹インフラ制度への医療分野の追加について
+○特定機能病院のあり方に関するとりまとめ
+－
+
+資料
+
+
+
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_63473.html-20250919</guid><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第117回
+
+
+2025年9月4日（令和7年9月4日）
+○診療報酬改定の基本方針について（前回改定の振り返り）
+○医療法人の経営情報等の第三者提供制度について
+ 
+－
+
+資料
+
+
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第117回
+
+
+2025年9月4日（令和7年9月4日）
+○診療報酬改定の基本方針について（前回改定の振り返り）
+○医療法人の経営情報等の第三者提供制度について
+ 
+－
+
+資料
+
+
+
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_62821.html-20250904</guid><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第116回
+
+
+2025年7月4日（令和7年7月4日）
+○地域医療構想、医師偏在対策等の検討体制について
+○他の医療機関で製造された PET 製剤の使用に係る医療法上の取扱いについて（報告）
+○経済財政運営と改革の基本方針等の閣議決定について（報告）
+
+議事録
+
+
+
+資料
+
+
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第116回
+
+
+2025年7月4日（令和7年7月4日）
+○地域医療構想、医師偏在対策等の検討体制について
+○他の医療機関で製造された PET 製剤の使用に係る医療法上の取扱いについて（報告）
+○経済財政運営と改革の基本方針等の閣議決定について（報告）
+
+議事録
+
+
+
+資料
+
+
+
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_59350.html-20250704</guid><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第115回
+
+
+2025年2月26日（令和7年2月26日）
+○医療法等の一部を改正する法律案の閣議決定について（報告）
+○令和７年度予算案・税制改正について（報告）
+－
+
+資料
+
+
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第115回
+
+
+2025年2月26日（令和7年2月26日）
+○医療法等の一部を改正する法律案の閣議決定について（報告）
+○令和７年度予算案・税制改正について（報告）
+－
+
+資料
+
+
+
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_52868.html-20250226</guid><pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】－
+
+
+2024年12月25日（令和6年12月25日）
+○2040年頃に向けた医療提供体制の総合的な改革に関する意見 
+－
+
+資料
+
+
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>－
+
+
+2024年12月25日（令和6年12月25日）
+○2040年頃に向けた医療提供体制の総合的な改革に関する意見 
+－
+
+資料
+
+
+－</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html-20241225</guid><pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第114回
+
+
+2024年12月18日（令和6年12月18日）
+○医療提供体制の在り方について
+○令和６年度補正予算について（報告）
+
+議事録
+
+
+
+資料
+
+
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第114回
+
+
+2024年12月18日（令和6年12月18日）
+○医療提供体制の在り方について
+○令和６年度補正予算について（報告）
+
+議事録
+
+
+
+資料
+
+
+
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_47469.html-20241218</guid><pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第113回
+
+
+2024年11月28日（令和6年11月28日）
+○医療DXの更なる推進等について
+○「美容医療の適切な実施に関する検討会」の報告書について（報告）
+○認定医療法人制度の延長等について
+○医師偏在是正対策について
+
+議事録
+
+
+
+資料
+
+
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第113回
+
+
+2024年11月28日（令和6年11月28日）
+○医療DXの更なる推進等について
+○「美容医療の適切な実施に関する検討会」の報告書について（報告）
+○認定医療法人制度の延長等について
+○医師偏在是正対策について
+
+議事録
+
+
+
+資料
+
+
+
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_46216.html-20241128</guid><pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第112回
+
+
+2024年11月15日（令和6年11月15日）
+○新たな地域医療構想の現時点の検討状況について（報告）
+
+議事録
+
+
+
+資料
+
+
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第112回
+
+
+2024年11月15日（令和6年11月15日）
+○新たな地域医療構想の現時点の検討状況について（報告）
+
+議事録
+
+
+
+資料
+
+
+
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_45510.html-20241115</guid><pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】第111回
+
+
+2024年10月30日（令和6年10月30日）
+○美容医療の適切な実施に関する検討会の議論の状況について
+○適切なオンライン診療の推進について
+○医療ＤＸの更なる推進について
+○産科医療特別給付事業等について
+○その他（非密封放射性同位元素を用いた医療機器及び医薬品等の医療法上の取扱いについて）
+
+議事録
+
+
+
+資料
+
+
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第111回
+
+
+2024年10月30日（令和6年10月30日）
+○美容医療の適切な実施に関する検討会の議論の状況について
+○適切なオンライン診療の推進について
+○医療ＤＸの更なる推進について
+○産科医療特別給付事業等について
+○その他（非密封放射性同位元素を用いた医療機器及び医薬品等の医療法上の取扱いについて）
+
+議事録
+
+
+
+資料
+
+
+
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_44808.html-20241030</guid><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -705,4 +649,60 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:f5e0c44e46279cae647eb20d1fb719f4eb7ab5eb</guid></item></channel></rss>
+開催案内</description><guid isPermaLink="false">urn:newsitem:f5e0c44e46279cae647eb20d1fb719f4eb7ab5eb</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2026-04-08】第649回
+
+
+2026年4月8日（令和8年4月8日）
+
+	１部会・小委員会に属する委員の指名等について
+	２費用対効果評価専門組織からの報告について
+	３医薬品の新規薬価収載等について
+	４最適使用推進ガイドラインについて
+	５ＤＰＣにおける高額な新規の医薬品等への対応について
+	６在宅自己注射について
+	７令和８年度改定を踏まえたＤＰＣ/ＰＤＰＳの現況について
+	８令和８年度診療報酬改定における臨時的なＤＰＣ準備病院の募集について
+	９調査実施小委員会からの報告について
+	10答申書附帯意見に関する事項の検討の進め方について
+
+	11再生医療等製品の医療保険上の取扱いについて
+
+－
+
+資料
+
+
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第649回
+
+
+2026年4月8日（令和8年4月8日）
+
+	１部会・小委員会に属する委員の指名等について
+	２費用対効果評価専門組織からの報告について
+	３医薬品の新規薬価収載等について
+	４最適使用推進ガイドラインについて
+	５ＤＰＣにおける高額な新規の医薬品等への対応について
+	６在宅自己注射について
+	７令和８年度改定を踏まえたＤＰＣ/ＰＤＰＳの現況について
+	８令和８年度診療報酬改定における臨時的なＤＰＣ準備病院の募集について
+	９調査実施小委員会からの報告について
+	10答申書附帯意見に関する事項の検討の進め方について
+
+	11再生医療等製品の医療保険上の取扱いについて
+
+－
+
+資料
+
+
+－</description><guid isPermaLink="false">urn:newsitem:df452a2fcdc3abe983926f9e77243f5666baada1</guid><pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate></item></channel></rss>
