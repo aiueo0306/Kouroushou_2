@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 25 Aug 2026 10:32:29 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 25 Aug 2026 11:27:03 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -9,7 +9,41 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:9eb786bb47c708133a948ab941cd50bfc9db97ac</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会総会)】【2026-08-26】第655回
+
+
+2026年8月26日（令和8年8月26日）
+１．費用対効果評価専門組
+　　織からの報告について
+
+２．ＯＴＣ類似薬の保険給
+　　付の見直しについて
+
+３．出産検討会の立ち上げ
+　　について
+－
+
+資料
+
+
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128154.html</link><description>第655回
+
+
+2026年8月26日（令和8年8月26日）
+１．費用対効果評価専門組
+　　織からの報告について
+
+２．ＯＴＣ類似薬の保険給
+　　付の見直しについて
+
+３．出産検討会の立ち上げ
+　　について
+－
+
+資料
+
+
+－</description><guid isPermaLink="false">urn:newsitem:757953efc6667168af79a995d8d6b61fd2c3c7ca</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -19,7 +53,29 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:f5e0c44e46279cae647eb20d1fb719f4eb7ab5eb</guid></item><item><title>【社会保障審議会(医療部会)】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:f5e0c44e46279cae647eb20d1fb719f4eb7ab5eb</guid></item><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】【2026-08-26】第248回
+
+
+2026年8月26日（令和8年8月26日）
+１　関係業界からの意見聴
+　　取について
+－
+
+資料
+
+
+－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-chuo_128157.html</link><description>第248回
+
+
+2026年8月26日（令和8年8月26日）
+１　関係業界からの意見聴
+　　取について
+－
+
+資料
+
+
+－</description><guid isPermaLink="false">urn:newsitem:03dc3bb33d7804cbd2bac8b414d14bca54d8c61f</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
