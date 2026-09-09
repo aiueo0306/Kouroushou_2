@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 08 Sep 2026 23:52:30 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 09 Sep 2026 03:25:57 +0000</lastBuildDate><item><title>【中央社会保険医療協議会(中央社会保険医療協議会薬価専門部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -669,7 +669,8 @@
 	３一部保険外療養の創設に伴う療養担当規則等の所要の見直しについて（諮問）
 	４薬機法等改正に伴う保険薬局及び保険薬剤師療養担当規則等の所要の見直しについて（諮問）
 	５個別改定項目について
-	６その他
+	６薬機法等改正に伴う保険薬局及び保険薬剤師療養担当規則等の所要の見直しについて（答申）
+	７その他
 
 
 －
@@ -687,7 +688,8 @@
 	３一部保険外療養の創設に伴う療養担当規則等の所要の見直しについて（諮問）
 	４薬機法等改正に伴う保険薬局及び保険薬剤師療養担当規則等の所要の見直しについて（諮問）
 	５個別改定項目について
-	６その他
+	６薬機法等改正に伴う保険薬局及び保険薬剤師療養担当規則等の所要の見直しについて（答申）
+	７その他
 
 
 －
@@ -695,4 +697,4 @@
 資料
 
 
-－</description><guid isPermaLink="false">urn:newsitem:a2672164e9dcb82d65271b65b80b6963d595998a</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate></item></channel></rss>
+－</description><guid isPermaLink="false">urn:newsitem:fa7229a1a19c05bf625ba9012bfd98d1a50e7b4a</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate></item></channel></rss>
